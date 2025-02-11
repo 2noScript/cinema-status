@@ -16,5 +16,5 @@
 .vscode/
 .idea/
 *.swp
-
+tmp
 .DS_Store
